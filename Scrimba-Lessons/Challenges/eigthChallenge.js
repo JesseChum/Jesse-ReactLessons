@@ -17,7 +17,7 @@ function Page() {
         <ol>
         <li> I want to build cooler webpages</li>
         <li>It makes UI easier to manage</li>
-        <li>It’s a valuable skill for jobs</li>
+        <li>It's a valuable skill for jobs</li>
         </ol>
     </main>
     )
